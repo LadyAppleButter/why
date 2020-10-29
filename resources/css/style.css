@@ -1,0 +1,42 @@
+/*Global Attribute*/
+html {
+	background-color: black;
+	color: white;
+	font-family: verdana, "san-serif";
+	text-align: center;
+}
+
+/*Heading 1*/
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
+
+/*Heading 2*/
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+/*Links*/
+a {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+/*Body*/
+.tagline {
+	font-size: 21px;
+	color: gray;
+}
+
+/*Footer*/
+
+.productName {
+	text-align: right;
+	color: gray;
+}
+
+/*Images*/
+
+
