@@ -2,7 +2,7 @@
 html {
 	background-color: black;
 	color: white;
-	font-family: verdana, "san-serif";
+	font-family: Verdana, "san-serif";
 	text-align: center;
 }
 
@@ -10,6 +10,7 @@ html {
 h1 {
 	font-size: 50px;
 	text-align: center;
+	font-weight: 300;
 }
 
 /*Heading 2*/
@@ -35,8 +36,20 @@ a {
 .productName {
 	text-align: right;
 	color: gray;
+	font-size: 21px;
 }
 
-/*Images*/
+/*Media*/
+.phone {
+	padding-top: 2%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
+.camp {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
